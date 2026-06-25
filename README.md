@@ -140,4 +140,5 @@ beautifulsoup4
 MIT — see [LICENSE](LICENSE) if present.
 
 ---
-*Built with ❤️ by [Sneha Tanwar](https://github.com/SnehaTanwar006)*
+
+<p align="center">Made with ❤️ by <a href="https://github.com/SnehaTanwar006">Sneha Tanwar</a></p>
